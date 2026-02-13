@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/golangllm/asr-llm-tts/eventbus"
+	"github.com/gollmdev/asr-llm-tts/eventbus"
 	"golang.org/x/sync/errgroup"
 )
 

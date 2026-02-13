@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/golangllm/asr-llm-tts/ai/ws"
+	"github.com/gollmdev/asr-llm-tts/ai/ws"
 	"github.com/gorilla/websocket"
 )
 

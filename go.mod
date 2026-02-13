@@ -1,4 +1,4 @@
-module github.com/golangllm/asr-llm-tts
+module github.com/gollmdev/asr-llm-tts
 
 go 1.25.6
 

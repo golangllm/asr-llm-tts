@@ -10,10 +10,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/golangllm/asr-llm-tts/ai/provider/asr"
-	"github.com/golangllm/asr-llm-tts/ai/provider/llm"
-	"github.com/golangllm/asr-llm-tts/ai/provider/tts"
-	"github.com/golangllm/asr-llm-tts/eventbus"
+	"github.com/gollmdev/asr-llm-tts/ai/provider/asr"
+	"github.com/gollmdev/asr-llm-tts/ai/provider/llm"
+	"github.com/gollmdev/asr-llm-tts/ai/provider/tts"
+	"github.com/gollmdev/asr-llm-tts/eventbus"
 	"golang.org/x/sync/errgroup"
 )
 
