@@ -1,0 +1,6 @@
+__debug*
+.vscode/
+launch.json
+*.mp3
+ssh
+ssh.log
